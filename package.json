@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "bootstrap4": "^0.0.1-security"
+  }
+}
